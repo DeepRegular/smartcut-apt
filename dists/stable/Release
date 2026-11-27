@@ -1,0 +1,20 @@
+Architectures: amd64
+Codename: stable
+Components: main
+Date: Fri, 27 Nov 2026 12:56:29 +0000
+Description: SmartCut 0.9.2
+Label: SmartCut
+Origin: SmartCut
+Suite: stable
+MD5Sum:
+ 9128d8bc6903de4b6af0a5983d995374             1567 main/binary-amd64/Packages
+ f1a8c27264fda52d78300a737c7d6fb1             1035 main/binary-amd64/Packages.gz
+SHA1:
+ adff766d36a0bd9f811990728c32f1841a498a93             1567 main/binary-amd64/Packages
+ b7fae3cf6251dc642c953535d362664c2267ff6c             1035 main/binary-amd64/Packages.gz
+SHA256:
+ 13e942bd6a750e3564445f9da94b5a1d92a5d313a1761cba95e9f220bc3e6aa0             1567 main/binary-amd64/Packages
+ 2d08dbb3a20fb3ab615147e41a12c14bb26e59bca05abc89f0a41085dc183b6f             1035 main/binary-amd64/Packages.gz
+SHA512:
+ c79f66eaec461b8b33e92641886d14659acc710af9a299bad9ae34b8bd809835a49d2060c3955ee8591a17889bdae4515607c50b3dc07b5021df5d0406d1288b             1567 main/binary-amd64/Packages
+ 178781f3cabff781209b5d04450f7d8a83615f2aac0b3ea08e6c5d890bedf5c9a5da75315fcea724339ced44aefb760d00f63ca7737a2273333af19f8db85e95             1035 main/binary-amd64/Packages.gz

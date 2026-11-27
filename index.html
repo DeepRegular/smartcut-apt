@@ -1,0 +1,12 @@
+<!doctype html>
+<meta charset="utf-8">
+<title>SmartCut APT repository</title>
+<h1>SmartCut APT repository</h1>
+<p>SmartCut 0.9.2, for Ubuntu 22.04 and later and Debian 13 and later (amd64).
+Add the repository once, and <code>apt upgrade</code> takes later versions:</p>
+<pre>sudo curl -fsSLo /usr/share/keyrings/smartcut.gpg https://deepregular.github.io/smartcut-apt/smartcut.gpg
+sudo curl -fsSLo /etc/apt/sources.list.d/smartcut.sources https://deepregular.github.io/smartcut-apt/smartcut.sources
+sudo apt update
+sudo apt install smartcut</pre>
+<p>Signing key fingerprint: <code>E8A2ACD236581DDDF68AE7FFA0DCC65533C608DA</code></p>
+<p><a href="https://github.com/DeepRegular/SmartCut">SmartCut on GitHub</a></p>
